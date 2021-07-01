@@ -4,6 +4,7 @@ do
 	echo $file
 	echo "$file is printed"
 	echo "$file is present"
-	echo "local changes"
+	echo "local changes(merging with master)"
+	echo "remote location"
 done
 
