@@ -4,6 +4,6 @@ do
 	echo $file
 	echo "$file is printed"
 	echo "$file is present"
-	echo "remoter location"
+	echo "remote location"
 done
 
